@@ -1,0 +1,87 @@
+*{
+  margin: auto;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.riquadro{
+  background-color: rgba(0,0,0,0.5);
+  width: 900px;
+  height: 600px;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 200px;
+}
+
+img{
+  width: 20%;
+  height: 13%;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+
+.green{
+  display: block;
+  color: LIMEGREEN;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+
+.menu{
+  background-color: LIMEGREEN;
+  width: 700px;
+  height: 32px;
+  margin-bottom: 2%;
+}
+
+input{
+  margin-top: 0.7%;
+}
+
+.primo{
+  text-align: left;
+  margin-left: 100px;
+}
+
+.testo{
+  color: white;
+  font-size: 20px;
+  display: inline;
+  border-top: 10px;
+}
+
+span{
+  color: ghostwhite;
+  font-size: 13px;
+  display: block;
+}
+
+
+.arancione{
+  background-color: SANDYBROWN;
+  width: 230px;
+}
+
+.verde{
+  background-color: lime;
+  width: 500px;
+}
+
+.rossa{
+  background-color: FIREBRICK;
+  width: 130px;
+
+}
+
+.riga{
+  height: 23px;
+  margin-left: 0;
+  border-radius: 7px;
+  margin-bottom: 25px;
+}
